@@ -1,5 +1,5 @@
 ; Materia: Lenguajes de Interfaz
-; Alumnos: Sotelo Izaguirre José Ángel
+; Alumno: Sotelo Izaguirre José Ángel
 ; Horario: 10-11
 ; Docente: Dr. José Luis Medina Jiménez
 ; Práctica: Proyecto de ventas e inventario en ensamblador
