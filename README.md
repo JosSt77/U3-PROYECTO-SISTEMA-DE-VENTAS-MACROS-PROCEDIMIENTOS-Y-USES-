@@ -22,7 +22,7 @@ Esta versión retoma el sistema de ventas e inventario de la Unidad 2 (MASM x86 
 ## Índice del Proyecto
 
 1. [Proyecto de Visual Studio con código .asm](https://github.com/JosSt77/U3-PROYECTO-SISTEMA-DE-VENTAS-MACROS-PROCEDIMIENTOS-Y-USES-/blob/main/ProyectoEnsambladorU3/ProyectoEnsambladorU3/main.asm)
-   * [1.1 Instrucciones de compilación](https://github.com/JosSt77/Proyecto-de-ventas-e-inventario-en-ensamblador/blob/main/ProyectoEnsambladorU3/ProyectoEnsambladorU3/Instrucciones%20de%20Compilaci%C3%B3n.md)
+   * [1.1 Instrucciones de compilación](https://github.com/JosSt77/U3-PROYECTO-SISTEMA-DE-VENTAS-MACROS-PROCEDIMIENTOS-Y-USES-/blob/main/ProyectoEnsambladorU3/ProyectoEnsambladorU3/Instrucciones%20de%20Compliaci%C3%B3n.md)
 2. [Archivo de inventario con al menos tres productos de prueba](https://github.com/JosSt77/U3-PROYECTO-SISTEMA-DE-VENTAS-MACROS-PROCEDIMIENTOS-Y-USES-/blob/main/Inventario.txt)
 3. [Reporte](https://github.com/JosSt77/U3-PROYECTO-SISTEMA-DE-VENTAS-MACROS-PROCEDIMIENTOS-Y-USES-/blob/main/ReporteProyectoEsambladorUnidad3.pdf)
 4. [Tabla de pruebas](https://github.com/JosSt77/U3-PROYECTO-SISTEMA-DE-VENTAS-MACROS-PROCEDIMIENTOS-Y-USES-/blob/main/Tabla%20de%20Pruebas%20-%20Proyecto%20ensamblador%20Unidad%203.pdf)
